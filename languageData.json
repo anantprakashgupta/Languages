@@ -1,6 +1,6 @@
 {
   "hindi": {
-    "AppName": "भारतीय ऐप",
+    "AppName": "भारतीयन रेडियो",
     "RadioChannel": "रेडियो चैनल",
     "VideoChannel": "वीडियो चैनल",
     "Home": "होम",
@@ -21,7 +21,7 @@
     "Ok": "ठीक है"
   },
   "english": {
-    "AppName": "Indian App",
+    "AppName": "Bharatiyan Radio",
     "RadioChannel": "Radio Channel",
     "VideoChannel": "Video Channel",
     "Home": "Home",
@@ -42,10 +42,10 @@
     "Ok": "OK"
   },
   "bhojpuri": {
-    "AppName": "भारतीय ऐप",
+    "AppName": "भारतीयन रेडियो",
     "RadioChannel": "रेडियो चैनल",
     "VideoChannel": "वीडियो चैनल",
-    "Home": "घर",
+    "Home": "होम",
     "PrivacyPolicy": "गोपनीयता नीति",
     "Disclaimer": "डिस्क्लेमर",
     "ContactUs": "संपर्क करीं",
