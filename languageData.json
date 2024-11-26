@@ -18,7 +18,13 @@
     "TimerHeader": "स्लीप टाइम सेट करे",
     "ClickHere": "क्लिक करे",
     "AreUSureExit": "क्या आप बहार जाना चाहते है?",
-    "Ok": "ठीक है"
+    "Ok": "ठीक है",
+    "Language": "भाषा",
+    "Live": "लाइव",
+    "GiveSuggest": "सुझाव दीजिए",
+    "ThemColor": "थीम का हेडर रंग चुनें",
+     "PlayerTheme" : "संगीत पृष्ठभूमि रंग चुनें"
+    
   },
   "english": {
     "AppName": "Bharatiyan Radio",
@@ -39,7 +45,12 @@
     "TimerHeader": "Set Sleep Timer",
     "ClickHere": "Click Here",
     "AreUSureExit": "Are you sure you want to exit?",
-    "Ok": "OK"
+    "Ok": "OK",
+    "Language": "Language",
+    "Live": "Live",
+    "GiveSuggest": "Give Suggestion",
+    "ThemColor": "select theme header color",
+    "PlayerTheme" : "Select Player Background Color"
   },
   "bhojpuri": {
     "AppName": "भारतीयन रेडियो",
@@ -60,6 +71,11 @@
     "TimerHeader": "स्लीप टाइम सेट करीं",
     "ClickHere": "यहां क्लिक करीं",
     "AreUSureExit": "का रउआ बाहर जइब चाहत बानी?",
-    "Ok": "ठीक बा"
+    "Ok": "ठीक बा",
+    "Language": "भाषा",
+    "Live": "लाइव",
+    "GiveSuggest": "सुझाव दी",
+    "ThemColor": "थीम हेडर रंग के चयन करीं",
+    "PlayerTheme" : "संगीत पृष्ठभूमि के रंग चयन करीं"
   }
 }
