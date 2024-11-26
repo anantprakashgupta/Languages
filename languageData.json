@@ -25,7 +25,8 @@
     "ThemColor": "थीम का हेडर रंग चुनें",
      "PlayerTheme" : "संगीत पृष्ठभूमि रंग चुनें",
     "SleepTime" : "ऐप बंद करने का समय सेट करें",
-    "SelectLanguage" : "भाषा चुने"
+    "SelectLanguage" : "भाषा चुने",
+    "close" : "बंद करे"
     
   },
   "english": {
@@ -54,7 +55,8 @@
     "ThemColor": "select theme header color",
     "PlayerTheme" : "Select Player Background Color",
     "SleepTime" : "Set App Close Time",
-    "SelectLanguage" : "Select Language"
+    "SelectLanguage" : "Select Language",
+     "close" : "close"
   },
   "bhojpuri": {
     "AppName": "भारतीयन रेडियो",
@@ -82,6 +84,7 @@
     "ThemColor": "थीम हेडर रंग के चयन करीं",
     "PlayerTheme" : "संगीत पृष्ठभूमि के रंग चयन करीं",
     "SleepTime" : "ऐप बंद होखे के समय सेट करीं",
-    "SelectLanguage" : "भाषा के चयन करीं"
+    "SelectLanguage" : "भाषा के चयन करीं",
+     "close" : "बंद करीं"
   }
 }
