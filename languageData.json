@@ -23,7 +23,8 @@
     "Live": "लाइव",
     "GiveSuggest": "सुझाव दीजिए",
     "ThemColor": "थीम का हेडर रंग चुनें",
-     "PlayerTheme" : "संगीत पृष्ठभूमि रंग चुनें"
+     "PlayerTheme" : "संगीत पृष्ठभूमि रंग चुनें",
+    "SleepTime" : "ऐप बंद करने का समय सेट करें"
     
   },
   "english": {
@@ -50,7 +51,8 @@
     "Live": "Live",
     "GiveSuggest": "Give Suggestion",
     "ThemColor": "select theme header color",
-    "PlayerTheme" : "Select Player Background Color"
+    "PlayerTheme" : "Select Player Background Color",
+    "SleepTime" : "Set App Close Time"
   },
   "bhojpuri": {
     "AppName": "भारतीयन रेडियो",
@@ -76,6 +78,7 @@
     "Live": "लाइव",
     "GiveSuggest": "सुझाव दी",
     "ThemColor": "थीम हेडर रंग के चयन करीं",
-    "PlayerTheme" : "संगीत पृष्ठभूमि के रंग चयन करीं"
+    "PlayerTheme" : "संगीत पृष्ठभूमि के रंग चयन करीं",
+    "SleepTime" : "ऐप बंद होखे के समय सेट करीं"
   }
 }
