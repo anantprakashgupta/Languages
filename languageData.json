@@ -1,6 +1,6 @@
 {
   "hindi": {
-    "AppName": "भारतीयन रेडियो",
+    "AppName": "महफ़िल म्यूजिक & टीवी",
     "RadioChannel": "रेडियो चैनल",
     "VideoChannel": "वीडियो चैनल",
     "Home": "होम",
@@ -31,7 +31,7 @@
     
   },
   "english": {
-    "AppName": "Bharatiyan Radio",
+    "AppName": "Mehfil Music & Tv",
     "RadioChannel": "Radio Channel",
     "VideoChannel": "Video Channel",
     "Home": "Home",
@@ -61,7 +61,7 @@
      "close" : "close"
   },
   "bhojpuri": {
-    "AppName": "भारतीयन रेडियो",
+    "AppName": "महफ़िल म्यूजिक & टीवी",
     "RadioChannel": "रेडियो चैनल",
     "VideoChannel": "वीडियो चैनल",
     "Home": "होम",
